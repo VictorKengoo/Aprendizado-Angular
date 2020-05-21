@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositorios\\MeuRepositorio-Angular\\MyDatingApp\\DatingApp.API\\DatingApp.API.csproj": {}
+    "D:\\Repositorios\\MeuRepositorio-Angular\\DatingApp.API\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "D:\\Repositorios\\MeuRepositorio-Angular\\MyDatingApp\\DatingApp.API\\DatingApp.API.csproj": {
+    "D:\\Repositorios\\MeuRepositorio-Angular\\DatingApp.API\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorios\\MeuRepositorio-Angular\\MyDatingApp\\DatingApp.API\\DatingApp.API.csproj",
+        "projectUniqueName": "D:\\Repositorios\\MeuRepositorio-Angular\\DatingApp.API\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "D:\\Repositorios\\MeuRepositorio-Angular\\MyDatingApp\\DatingApp.API\\DatingApp.API.csproj",
+        "projectPath": "D:\\Repositorios\\MeuRepositorio-Angular\\DatingApp.API\\DatingApp.API.csproj",
         "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorios\\MeuRepositorio-Angular\\MyDatingApp\\DatingApp.API\\obj\\",
+        "outputPath": "D:\\Repositorios\\MeuRepositorio-Angular\\DatingApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\T-Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config"
