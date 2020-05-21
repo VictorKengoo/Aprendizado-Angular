@@ -1,2 +1,2 @@
-# MeuRepositorio-Angular
-Repositório destinado a aprendizado do framework Angular
+# My-Dating-App
+Repositório destinado a aprendizado do .NET Core Framework, juntamente com Angular e SQLite
